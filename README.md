@@ -1,0 +1,1 @@
+This repository contains a simple simulation of a coffee machine that can make Espresso, Latte, and Cappuccino. The program allows the user to select a drink, checks if there are enough resources to make it, processes the payment, and then makes the coffee.
